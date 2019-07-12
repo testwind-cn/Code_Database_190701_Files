@@ -1,4 +1,3 @@
 id_cache.*
 *.bak
-\Navicat\Premium\logs\
-logs\
+logs/

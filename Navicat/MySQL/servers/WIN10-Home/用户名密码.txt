@@ -1,0 +1,5 @@
+﻿连接名	WIN10-Home-thbl123
+地址	localhost
+数据库	
+用户名	root
+密码	thbl123
