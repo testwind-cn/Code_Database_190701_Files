@@ -1,0 +1,5 @@
+﻿连接名	DEV-MySQL57-thbl123
+地址	10.2.206.11
+数据库	echart,thbl_rpt
+用户名	root
+密码	thbl123

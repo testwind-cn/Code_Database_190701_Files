@@ -1,0 +1,5 @@
+连接名	prod-db-from-zc-mysql
+地址	172.31.64.115
+数据库	loan
+用户名	pub_query
+密码	Pub_query123

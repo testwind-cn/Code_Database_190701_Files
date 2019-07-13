@@ -1,0 +1,27 @@
+连接名	prod-db-to-rc
+地址	10.91.1.10
+数据库	rc
+用户名	rc
+密码	fTO@J5jmW&Q4
+
+
+连接名	prod-db-to-risk
+地址	10.91.1.10
+数据库	risk
+用户名	risk
+密码	fTO@J5jmW&Q4
+
+
+连接名	prod-db-to-kettle
+地址	10.91.1.10
+数据库	kettle
+用户名	kettle
+密码	Kettle@2018
+
+
+连接名	prod-db-to-root
+地址	10.91.1.10
+数据库	
+用户名	root
+密码	RiskControl@2018
+

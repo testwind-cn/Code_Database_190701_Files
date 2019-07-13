@@ -1,0 +1,8 @@
+连接名	thfk-xzgd-1-19	（报表输出、可视化）
+地址	10.91.1.19
+数据库	echart、thbl_rpt
+端口	3306
+用户名	risk
+密码	fTO@J5jmW&Q4
+用户号	root
+密码 	Redhat@2016

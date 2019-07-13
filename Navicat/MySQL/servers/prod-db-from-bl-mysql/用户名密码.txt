@@ -1,0 +1,5 @@
+连接名	prod-db-from-bl-mysql
+地址	172.31.132.63
+数据库	goodboss
+用户名	readonly
+密码	Thblreadonly2017ZAQ!
