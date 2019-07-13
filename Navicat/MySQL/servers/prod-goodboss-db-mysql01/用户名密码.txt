@@ -1,6 +1,6 @@
-连接名	prd-db-mysql01
-连接名	prd-db-mysql02
-连接名	prd-db-mysql03
+连接名	prod-db-mysql01
+连接名	prod-db-mysql02
+连接名	prod-db-mysql03
 地址	172.31.132.61
 地址	172.31.132.62
 地址	172.31.132.63

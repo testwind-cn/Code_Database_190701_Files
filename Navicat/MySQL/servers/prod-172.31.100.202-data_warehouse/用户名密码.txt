@@ -1,0 +1,5 @@
+连接名	prod-172.31.100.202-data_warehouse
+地址	172.31.100.202
+数据库	data_warehouse
+用户名	datauser
+密码	kpo9raFllycl@fc0

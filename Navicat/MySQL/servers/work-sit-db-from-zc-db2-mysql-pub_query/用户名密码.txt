@@ -1,4 +1,4 @@
-连接名	sit-db-from-zc-db2-mysql-pub_query
+连接名	work-sit-db-from-zc-db2-mysql-pub_query
 地址	172.21.209.51
 端口	3306
 数据库	allinpay_crm_test

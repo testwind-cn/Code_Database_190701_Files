@@ -1,4 +1,4 @@
-﻿连接名	my9517919.xincache1.cn
+﻿连接名	home-my9517919.xincache1.cn
 地址	my9517919.xincache1.cn
 数据库	my9517919
 用户名	my9517919

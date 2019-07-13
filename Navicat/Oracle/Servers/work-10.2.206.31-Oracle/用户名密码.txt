@@ -1,0 +1,8 @@
+连接名	work-10.2.206.31-Oracle
+连接类型	Basic
+地址	10.2.206.31
+端口	1521
+服务名	POS
+选择：服务名
+用户名	thbl
+密码	thblserver

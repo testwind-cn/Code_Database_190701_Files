@@ -1,4 +1,4 @@
-连接名	WIN10-Home-thbl123
+连接名	home-H-WIN10
 地址	localhost
 数据库	
 用户名	root

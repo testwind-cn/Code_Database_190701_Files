@@ -19,7 +19,7 @@
 密码	Kettle@2018
 
 
-连接名	prod-db-to-root
+连接名	prod-db-to-risk-root
 地址	10.91.1.10
 数据库	
 用户名	root

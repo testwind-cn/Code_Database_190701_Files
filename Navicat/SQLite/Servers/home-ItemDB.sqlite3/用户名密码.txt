@@ -1,4 +1,4 @@
-﻿连接名	ItemDB.sqlite3
+﻿连接名	home-ItemDB.sqlite3
 地址	ItemDB.sqlite3
 数据库	
 用户名	E:\Wind\OneDrive\workspace\Python\Ganji_003\ItemDB.sqlite3

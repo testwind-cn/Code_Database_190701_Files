@@ -1,0 +1,5 @@
+连接名	home-dev-pc-bk-thbl123
+地址	dev-pc-bk
+数据库	
+用户名	root
+密码	thbl123
