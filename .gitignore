@@ -1,4 +1,17 @@
-id_cache.*
 *.bak
 logs/
-.idea/
+# .idea/
+
+
+~$*.*
+id_cache.*
+
+workspace.xml
+.idea/workspace.xml
+/.idea/workspace.xml
+*/.idea/workspace.xml
+*/*/.idea/workspace.xml
+*/*/*/.idea/workspace.xml
+
+markdown-navigator/
+markdown*.xml
