@@ -15,6 +15,11 @@ __pycache__/
 
 .idea/workspace.xml
 
+id_cache.*
+Premium/profiles/AutoSave/
+Premium/logs/
+# navicat 数据库文件
+
 # wangjun add
 
 
