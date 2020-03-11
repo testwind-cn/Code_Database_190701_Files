@@ -1,4 +1,4 @@
-﻿# wangjun add
+# wangjun add
 
 .idea/dataSources/
 .idea/dictionaries/
@@ -18,6 +18,8 @@ __pycache__/
 id_cache.*
 Premium/profiles/AutoSave/
 Premium/logs/
+Navicat/Premium/profiles/AutoSave/
+Navicat/Premium/logs/
 # navicat 数据库文件
 
 # wangjun add
